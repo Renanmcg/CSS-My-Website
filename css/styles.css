@@ -41,6 +41,9 @@ a:hover {
   position: relative;
   padding-top: 100px;
 }
+.middle-container{
+  margin-top: 80px;
+}
 
 .bottom-container{
 background-color: #0061A8;
